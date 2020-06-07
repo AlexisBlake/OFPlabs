@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OFPlabs.iml" filepath="$PROJECT_DIR$/.idea/modules/OFPlabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OFPlabs-build.iml" filepath="$PROJECT_DIR$/.idea/modules/OFPlabs-build.iml" />
+    </modules>
+  </component>
+</project>
